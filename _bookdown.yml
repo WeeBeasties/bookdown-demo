@@ -4,3 +4,6 @@ language:
     chapter_name: "Chapter "
 output_dir: docs
 comments: true
+output:
+  includes:
+    after_body: disqus.html
